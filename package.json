@@ -1,0 +1,24 @@
+{
+  "name": "deploygcp",
+  "version": "1.0.0",
+  "description": "Testar o deployment de uma aplicação node.js no GCP",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrebontempo/deployGCP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrebontempo/deployGCP/issues"
+  },
+  "homepage": "https://github.com/andrebontempo/deployGCP#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
